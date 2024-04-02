@@ -2,6 +2,6 @@
     "name": "Nodes International Ltd",
     "website": "https://nodes.international",
     "description": "The Staking Company, operating nodes on major Proof-of-Stake Layer 1 blockchains and offering validation services to the world",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Nodes-International/eigenlayer-operator-metadata/main/logo.png",
     "twitter": "https://twitter.com/nodesintl"
 }
